@@ -1,0 +1,18 @@
+
+"%@ added a comment in %@" = "%@ added a comment in %@";
+
+"%@ has resigned from %@" = "%@ has resigned from %@";
+
+"%@ has joined %@" = "%@ has joined %@";
+
+"%@ has left %@" = "%@ has left %@";
+
+"%@ has accepted your friend invitation" = "%@ has accepted your friend invitation";
+
+"%@ has declined your friend invitation" = "%@ has declined your friend invitation";
+
+"%@ and %@ are now friends" = "%@ and %@ are now friends";
+
+"%@ details were changed by %@" = "%@ details were changed by %@";
+
+"%@ was cancelled by %@" = "%@ was cancelled by %@";

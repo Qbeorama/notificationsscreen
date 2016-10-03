@@ -1,0 +1,18 @@
+
+"%@ added a comment in %@" = "Nowy komentarz od %@ w wydarzeniu %@";
+
+"%@ has resigned from %@" = "%@ rezygnuje z udziału w wydarzeniu %@";
+
+"%@ has joined %@" = "%@ dołącza do wydarzenia %@";
+
+"%@ has left %@" = "%@ opuszcza wydarzenie %@";
+
+"%@ has accepted your friend invitation" = "%@ przyjmuje zaproszenie do grona znajomych";
+
+"%@ has declined your friend invitation" = "%@ odrzuca zaproszenie do grona znajomych";
+
+"%@ and %@ are now friends" = "%@ jest teraz znajomym z %@";
+
+"%@ details were changed by %@" = "Wydarzenie %@ edytowane przez %@";
+
+"%@ was cancelled by %@" = "Wydarzenie %@ odwołane przez %@";
